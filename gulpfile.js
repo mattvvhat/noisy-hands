@@ -5,7 +5,7 @@ gulp.task('webserver', function() {
   gulp.src('app')
   .pipe(webserver({
     livereload: true,
-    directoryListing: true,
+    // directoryListing: true,
     open: true
   }));
 });
