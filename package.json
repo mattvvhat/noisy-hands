@@ -9,7 +9,10 @@
   "author": "",
   "license": "UNLICENSE",
   "devDependencies": {
+    "dat-gui": "^0.5.0",
     "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.1",
     "gulp-webserver": "^0.9.1"
   }
 }
